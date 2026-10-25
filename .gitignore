@@ -1,0 +1,13 @@
+## Visual Studio & .NET Build Artifacts
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+
+## Temporary & Intermediate Files
+report_render.html
+*.log
+*.tmp
